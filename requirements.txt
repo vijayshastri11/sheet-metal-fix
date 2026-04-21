@@ -1,2 +1,2 @@
-frappe
-erpnext
+# No extra PyPI dependencies.
+# frappe and erpnext are provided by the bench environment.
